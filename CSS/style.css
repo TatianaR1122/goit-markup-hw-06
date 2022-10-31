@@ -1095,10 +1095,8 @@ button {
 
 .checkbox-input:focus+.accept-icon-svg {
 
-    border-color: transparent;
-    background-color: var(--accent-color);
-    background-size: contain;
-    background-origin: border-box;
+    border-color: var(--accent-color);
+    
 }
 
 .accept-text {
